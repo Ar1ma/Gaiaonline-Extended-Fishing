@@ -969,6 +969,7 @@ FishValues["Gray Striper"] =		3;
 FishValues["Mutha Guppa"] =		4;
 FishValues["Big Mouth Bass'terd"] =	4;
 FishValues["Candy Striper"] =		4;
+
 FishValues["Green Seedkin"] =		1;
 FishValues["Blue Seedkin"] =		1;
 FishValues["Pink Seedkin"] =		1;
@@ -981,6 +982,7 @@ FishValues["Icy Tuna"] =		3;
 FishValues["Buckin' Bino"] =		4;
 FishValues["Tootin' Tino"] =		4;
 FishValues["Chargin' Chino"] =		4;
+
 FishValues["White Pebbo Feeder"] =	1;
 FishValues["Brown Pebbo Feeder"] =	1;
 FishValues["Black Pebbo Feeder"] =	1;
@@ -993,9 +995,45 @@ FishValues["Slate Boldur"] =		3;
 FishValues["Diamondback Lion"] =	4;
 FishValues["Emeraldback Lion"] =	4;
 FishValues["Rubyback Lion"] =		4;
+
 FishValues["Big Old Tire"] =		0;
 FishValues["Old Boot"] =		0;
 FishValues["Old Can"] =			0;
+
+// New Catches after the update
+
+FishValues["Red Bubble-Eye Goldfish"] =		1;
+FishValues["Gold Bubble-Eye Goldfish"] =	1;
+FishValues["Black Bubble-Eye Goldfish"] =	1;
+FishValues["Kohaku Koi"] =			2;
+FishValues["Ochiba Koi"] =			2;
+FishValues["Yamabuki Koi"] =			2;
+FishValues["Russian Catfish"] =			3;
+FishValues["Tigerstripe Catfish"] =		3;
+FishValues["Witchling Catfish"] =		3;
+
+FishValues["Berry Balloonfish"] =		1;
+FishValues["Peach Balloonfish"] =		1;
+FishValues["Bubblegum Balloonfish"] =		1;
+FishValues["Electric Jelly"] =			2;
+FishValues["Sulfuric Jelly"] =			2;
+FishValues["Acidic Jelly"] =			2;
+FishValues["Blood Ironjaw"] =			3;
+FishValues["Hematite Ironjaw"] =		3;
+FishValues["Titanium Ironjaw"] =		3;
+
+FishValues["Moss Mutant Crab"] =		1;
+FishValues["Rusted Mutant Crab"] =		1;
+FishValues["Slate Mutant Crab"] =		1;
+FishValues["By-A-Mile Racerfish"] =		2;
+FishValues["By-An-Inch Racerfish"] =		2;
+FishValues["Ten-Second Racerfish"] =		2;
+FishValues["Firemane Hellfish"] =		3;
+FishValues["Ethermane Hellfish"] =		3;
+FishValues["Ectomane Hellfish"] =		3;
+
+FishValues["Driftwood"] =			0;
+
 
 function SetupTypeArray()
 {

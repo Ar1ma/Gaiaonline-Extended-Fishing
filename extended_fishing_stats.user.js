@@ -1,6 +1,7 @@
 ﻿// Extended Fishing Stats
 //
 // Writen by Domain Name, aka Misplaced Pixels (SigmaJargon@gmail.com)
+// Maintainer: Arima Begoun, aka Ar1ma (Begooon@hotmail.com)
 // GUID {4fcca21a-07b7-4ac4-a06d-a4a901be2798}
 // Released under the GPL license
 // http://www.gnu.org/copyleft/gpl.html
